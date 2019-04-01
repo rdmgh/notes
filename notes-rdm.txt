@@ -1,0 +1,58 @@
+where our data is. and stitch it all together.
+understand what a customer journey
+exact same technology stack. improve the experience - 
+
+bigger picture.
+understanding experience at particular point of time
+
+fork down a path, really good experience
+
+chuck it post-it notes
+so far removed from the actual data - 
+
+end to end experience
+data to drive our customer journey
+
+not limited to IT ops
+buy-in from stakeholders
+
+use cases delivered, and how we went about it
+
+end to end process mapping - shifting a problem from one stage of the process to another
+
+rework. moment of truth. process stage.
+process time. duration. throughput.
+
+kpis. defined service levels.
+
+road to resiliency.
+
+Better, faster, and more actionable business insights
+
+business transactions.
+
+hypo
+develop insight
+simulate impact
+model financials
+implement change?
+
+correlation of data across multiple systems is complex
+identifiers for transactions, orderes, customers etc are diff between systems in a single transaction
+sources - 
+
+https://www.couchbase.com/leadership
+consl
+
+https://conf.splunk.com/conf-online.html?#/
+
+what do you care about? and what do you do when it breaks?
+deviation - translate into somehting important
+
+key decision makers + domain experts + splunk ninjas.
+
+analyze data over time + get to know your data
+use timewrap or streamstats method to baseline + identify poutliers
+validatae, alrm and iterate
+
+alert fatigue
