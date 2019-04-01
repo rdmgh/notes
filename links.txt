@@ -1,9 +1,9 @@
-https://docs.codeclimate.com/v1.0
-https://blog.usenotion.com/13-essential-software-development-metrics-to-ensure-quality-219cfc264ed1
+docs.codeclimate.com/v1.0
+blog.usenotion.com/13-essential-software-development-metrics-to-ensure-quality-219cfc264ed1
 pi.co
-https://www.futrli.com/kpis/
-https://conf.splunk.com/conf-online.html?#/
+www.futrli.com/kpis/
+conf.splunk.com/conf-online.html?#/
 fathom hq
 
 xero
-https://content.hubdoc.com/
+content.hubdoc.com/
