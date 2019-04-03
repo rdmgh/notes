@@ -56,3 +56,17 @@ use timewrap or streamstats method to baseline + identify poutliers
 validatae, alrm and iterate
 
 alert fatigue
+
+When you view the world as a series of outputs you form opinions. But when you view the world as a series of mechanisms you form strategies.
+
+I like to take bad code, mix it with good code, turn it in to AAA rated technical debt, then sell insurance on the debt
+
+Technical Debt is not a catch-all term for bad code.
+
+It is deliberate borrowing against future productivity. You must know when you're doing it and why.
+
+Bad code that bites you long after you've written it can't be retrospectively labelled Technical Debt. It's just bad code.
+
+https://emilyfairfaxscience.com/
+
+https://blog.atomist.com/new-names-for-delivery/
