@@ -6,3 +6,6 @@ conf.splunk.com/conf-online.html?#/
 fathom hq
 xero
 content.hubdoc.com/
+360i.com/about/#leadership
+www.thinkwithgoogle.com/advertising-channels/voice-technology-strategy/
+sloanreview.mit.edu/projects/leading-with-next-generation-key-performance-indicators/
