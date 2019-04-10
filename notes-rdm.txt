@@ -110,3 +110,34 @@ necessary tech is available, pulling pieces together whole remains for the momen
 
 offer products, promotions and services even more targeted, more optimized
 
+Help drive and deliver on our product roadmap (frontapp.com/roadmap), turning 1-pager specs into features
+Obsess about the quality of the product and the work you produce.
+Lead or contribute to the next features of Front-Chat, our most recent product
+Architect and lead development of the next version of our analytics product
+Mentorship (20% of your time)
+
+Product mindset, we’re a product company 
+Strong track record of launching and delivering projects of significant complexity and high level of ambiguity
+Fluency in a dynamic language like Javascript, Python, Ruby, or similar
+Track record of designing and implementing complex and scalable software services 
+Experience with performance benchmarking and diagnostic tools
+Understand the trade-offs in employing different engineering solutions to a problem, valuing pragmatism over idealism
+Ability to thrive in a dynamic, fast-paced, collaborative, and high-growth environment
+
+Partner cross-functionally with Engineering, Design, Sales & Marketing to plan, build and launch product features
+Own the future roadmap for your products and manage the roadmap against KPIs / product goals
+Rally teams to work together towards a common goal; oversee many moving parts to ensure deliverables are met on time
+Write specs, manage project execution, A/B test, UI/UX wireframe, and define product roll-out strategy
+Discover and present new product insights by analyzing qualitative and quantitative customer data
+Conduct user research & user testing to collect new customer insights
+Understand Front’s competitive position in the market; execute on our strategic plan to become the primary client that companies use to manage all of their external communication
+
+Strong design sense
+Empathetic; you understand what users need and issues that your teammates face
+Execution-oriented; you’re highly organized; you’re comfortable managing many work streams; you know how to make the right trade-offs; you ensure that teams ship on time
+Data-driven; you understand how to use data to guide product decisions
+Collaborative; you work well with all kinds of personalities; you work well with teams across multiple geographies
+Excellent written and oral communication skills
+
+From the beginning, we knew Blend shared our vision for a simpler more transparent consumer lending ecosystem. By partnering with them on multiple products, including deposit account opening, we are providing a consistent and streamlined experience for our members across the board and taking friction out of the process.
+
