@@ -23,3 +23,4 @@ https://zapier.com/help/dashboard/
 https://support.mozilla.org/en-US/kb/write-articles-knowledge-base?redirectlocale=en-US&redirectslug=how-to-write-knowledge-base-articles
 https://zapier.com/learn/customer-support/build-knowledge-base-documentation/
 https://medium.com/blend-engineering/managing-customer-releases-with-feature-flags-instead-of-branches-304584f45781
+https://www.confluent.io/blog/apache-kafka-to-amazon-s3-exactly-once

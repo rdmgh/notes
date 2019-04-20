@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/52138679/how-to-disable-actuator-security-without-disabling-it-totally-with-spring-boot-2
+https://github.com/eugenp/tutorials/blob/master/spring-security-mvc-ldap/src/main/java/org/baeldung/security/SecurityConfig.java
