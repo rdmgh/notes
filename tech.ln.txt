@@ -3,3 +3,4 @@ https://github.com/eugenp/tutorials/blob/master/spring-security-mvc-ldap/src/mai
 split.io
 airshiphq.com
 https://docs.vyne.co/examples/example-rewards-cards#breaking-changes-that-dont-break
+https://thenewstack.io/the-vision-of-hybrid-api-management/
