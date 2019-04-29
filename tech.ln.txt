@@ -11,3 +11,4 @@ https://aws-amplify.github.io/docs/cli/multienv?sdk=js
 https://hackernoon.com/federated-identities-a-developers-primer-655a160d66cb
 https://blog.leanix.net/en/9-rules-and-guidelines-for-application-rationalization
 https://cloud.google.com/blog/products/identity-security/re-thinking-federated-identity-with-the-continuous-access-evaluation-protocol
+
