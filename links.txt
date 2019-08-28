@@ -24,3 +24,9 @@ https://support.mozilla.org/en-US/kb/write-articles-knowledge-base?redirectlocal
 https://zapier.com/learn/customer-support/build-knowledge-base-documentation/
 https://medium.com/blend-engineering/managing-customer-releases-with-feature-flags-instead-of-branches-304584f45781
 https://www.confluent.io/blog/apache-kafka-to-amazon-s3-exactly-once
+
+https://uploads-ssl.webflow.com/5a0e266e68a2870001ce9b8c/5ac13b7db62e4223b9cdc185_DesTechUX_Process%2003.png
+https://www.vinta.com.br/blog/2018/vinta-design-process/
+https://www.cantarus.com/approach/our-process
+https://spin.atomicobject.com/2013/09/27/design-agile-waterfall/
+https://vui.agency/
