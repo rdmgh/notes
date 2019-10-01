@@ -44,3 +44,5 @@ https://www.mambu.com/mpo
 https://corezoid.com/pricing/public-cloud/#XXL-month
 https://www.runacap.com/portfolio-of-companies
 https://www.starlingbank.com/investors/
+
+https://builttoadapt.io/what-my-backend-and-api-user-stories-look-like-c5e965beb778
